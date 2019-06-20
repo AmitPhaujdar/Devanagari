@@ -21,4 +21,4 @@ X_test shape:(2000, 1024)
 Y_test shape:(1, 2000)
 
 
-The script file for the project is build_model.py, devanagari_application.py. build_model comprises of building the model, training and testing the data. devanagari_application concerns with getting the final result as recognising the handwriting as one of the letters of devanagari script. 
+The script file for the project is Building_model.py, devanagari_application.py. Building_model comprises of building the model, training and testing the data. devanagari_application concerns with getting the final result as recognising the handwriting as one of the letters of devanagari script. 
